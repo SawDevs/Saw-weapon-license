@@ -15,10 +15,11 @@
 # qb-core/shared/items.lua
 
 ```lua
-        	['weapon_license'] 				 = {['name'] = 'weapon_license',				    ['label'] = 'Weapon License',			['weight'] = 0,			['type'] = 'item',		['image'] = 'weapon_license.png',		['unique'] = true,		['useable'] = true,		['shouldClose'] = true,    ['combinable'] = nil,   ['description'] = 'Weapon License'},
+['weapon_license'] 				 = {['name'] = 'weapon_license',				    ['label'] = 'Weapon License',			['weight'] = 0,			['type'] = 'item',		['image'] = 'weapon_license.png',		['unique'] = true,		['useable'] = true,		['shouldClose'] = true,    ['combinable'] = nil,   ['description'] = 'Weapon License'},
 
 
-	['doc_paper'] 			     	 = {['name'] = 'doc_paper', 			    	['label'] = 'Medical Paper', 			['weight'] = 0, 		['type'] = 'item', 		['image'] = 'doc_paper.png', 		    ['unique'] = false, 	['useable'] = false, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Just A Paper .'},
+['doc_paper'] 			     	 = {['name'] = 'doc_paper', 			    	['label'] = 'Medical Paper', 			['weight'] = 0, 		['type'] = 'item', 		['image'] = 'doc_paper.png', 		    ['unique'] = false, 	['useable'] = false, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Just A Paper .'},
+
 ```
 
 ## ** Note ** ##
