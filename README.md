@@ -42,7 +42,7 @@
         }
 ```
 
-# Credits
+# Made Wtih Love By
 * [ Novax Dev ] --> [CLick me](https://discord.com/users/346023736211931136)
 * [ B_FMan ] --> [CLick me](https://discord.com/users/684472754824806439)
 * [ Saw Store ] --> [CLick me](Discord.gg/SawStore)
