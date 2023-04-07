@@ -6,6 +6,7 @@
 # How to install
 * Download source files from github
 * Drag source files into your resources folder
+* Edit Settings From --> Core-Settings.lua
 * add items and FormatItemInfo
 
 ## ** Note ** ##
