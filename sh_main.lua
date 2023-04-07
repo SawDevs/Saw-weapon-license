@@ -2,7 +2,7 @@ Shorts = {}
 
 Shorts = {
 
-UseExamination = true,
+UseExamination = false,
 
 Examination = {
  Header = 'Examination',
